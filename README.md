@@ -31,7 +31,7 @@
  - mingw-w64-i686-libxml2-2.9.10-9800-any.pkg.tar.xz
  - mingw-w64-i686-libspatialite-5.0.0-1-any.pkg.tar.xz
  - mingw-w64-i686-libwebp-1.1.0-1-any.pkg.tar.xz
- - mingw-w64-i686-netcdf-4.7.4-9000-any.pkg.tar.xz
+ - mingw-w64-i686-netcdf-4.9.0-2-any.pkg.tar.xz
  - mingw-w64-i686-lcms2-2.9-9002-any.pkg.tar.xz
  - mingw-w64-i686-openjpeg2-2.3.1-9600-any.pkg.tar.xz
  - mingw-w64-i686-pcre-8.43-9002-any.pkg.tar.xz
@@ -70,7 +70,7 @@
  - mingw-w64-x86_64-libxml2-2.9.10-9800-any.pkg.tar.xz
  - mingw-w64-x86_64-libspatialite-5.0.0-1-any.pkg.tar.xz
  - mingw-w64-x86_64-libwebp-1.1.0-1-any.pkg.tar.xz
- - mingw-w64-x86_64-netcdf-4.7.4-9000-any.pkg.tar.xz
+ - mingw-w64-x86_64-netcdf-4.9.0-2-any.pkg.tar.xz
  - mingw-w64-x86_64-lcms2-2.9-9002-any.pkg.tar.xz
  - mingw-w64-x86_64-openjpeg2-2.3.1-9600-any.pkg.tar.xz
  - mingw-w64-x86_64-pcre-8.43-9002-any.pkg.tar.xz
@@ -109,7 +109,7 @@
  - mingw-w64-ucrt-x86_64-libxml2-2.9.10-9800-any.pkg.tar.xz
  - mingw-w64-ucrt-x86_64-libspatialite-5.0.0-1-any.pkg.tar.xz
  - mingw-w64-ucrt-x86_64-libwebp-1.1.0-1-any.pkg.tar.xz
- - mingw-w64-ucrt-x86_64-netcdf-4.7.4-9000-any.pkg.tar.xz
+ - mingw-w64-ucrt-x86_64-netcdf-4.9.0-2-any.pkg.tar.xz
  - mingw-w64-ucrt-x86_64-lcms2-2.9-9002-any.pkg.tar.xz
  - mingw-w64-ucrt-x86_64-openjpeg2-2.3.1-9600-any.pkg.tar.xz
  - mingw-w64-ucrt-x86_64-pcre-8.43-9002-any.pkg.tar.xz
